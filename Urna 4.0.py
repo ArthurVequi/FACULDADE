@@ -1,3 +1,5 @@
+import os
+
 candidatos=['Maria','Joao','Jose']
 votos=[0,0,0]
 count = 0
@@ -6,6 +8,7 @@ vencedor = []
 while True:
     print(f'\nLista de Candidatos:\n1 - Maria: \n2 - João: \n3 - José:')
     escolha = input('Escreva seu voto: ')
+    os.system('cls')
 
     if escolha == '':
         break
@@ -26,4 +29,5 @@ while True:
         maior_voto = votos[count]
         print(f'\nO vencedor da eleição foi: {vencedor} com {maior_voto} votos')
         break
+
     count += 1
