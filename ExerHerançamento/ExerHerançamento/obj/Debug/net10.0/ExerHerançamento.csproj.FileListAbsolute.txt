@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\bin\Debug\net10.0\ExerHerançamento.exe
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\bin\Debug\net10.0\ExerHerançamento.deps.json
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\bin\Debug\net10.0\ExerHerançamento.runtimeconfig.json
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\bin\Debug\net10.0\ExerHerançamento.dll
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\bin\Debug\net10.0\ExerHerançamento.pdb
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.dll
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\refint\ExerHerançamento.dll
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.pdb
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ExerHerançamento.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\ExerHerançamento\ExerHerançamento\obj\Debug\net10.0\ref\ExerHerançamento.dll
